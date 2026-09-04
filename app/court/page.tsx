@@ -96,7 +96,7 @@ export default function RoommateCourt() {
                 fontWeight: "700",
               }}
             >
-              COLLEGE SURVIVAL OS™ / LEGAL DEPARTMENT
+              SURVIVAL OS™ / LEGAL DEPARTMENT
             </div>
 
             <h1

@@ -303,7 +303,7 @@ export default function RelationshipTranslator() {
       )}
 
       <footer className="translator-footer">
-        <span>COLLEGE SURVIVAL OS™</span>
+        <span>SURVIVAL OS™</span>
         <span>
           DISCLAIMER: THIS MACHINE IS 100% UNQUALIFIED.
         </span>

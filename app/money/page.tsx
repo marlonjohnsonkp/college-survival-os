@@ -102,10 +102,10 @@ export default function MoneyPage() {
 
       <header className="money-header">
         <a href="/dashboard" className="money-logo">
-          <div className="logo-box">CS</div>
+          <div className="logo-box">SO</div>
 
           <div>
-            <strong>COLLEGE SURVIVAL OS™</strong>
+            <strong>SURVIVAL OS™</strong>
             <span>FINANCIAL DAMAGE CONTROL</span>
           </div>
         </a>
@@ -302,7 +302,7 @@ export default function MoneyPage() {
         </section>
 
         <footer className="money-footer">
-          <span>COLLEGE SURVIVAL OS™</span>
+          <span>SURVIVAL OS™</span>
 
           <a href="/dashboard">← DASHBOARD</a>
 

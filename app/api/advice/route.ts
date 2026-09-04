@@ -18,7 +18,7 @@ export async function POST(request: Request) {
     const response = await openai.responses.create({
       model: "gpt-5.6-luna",
       instructions: `
-You are the AI Survival Advisor inside College Survival OS™.
+You are the AI Survival Advisor inside Survival OS™.
 
 Give practical advice to college students, but make it funny, witty,
 slightly dramatic, and entertaining.

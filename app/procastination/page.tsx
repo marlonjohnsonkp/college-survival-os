@@ -61,10 +61,10 @@ export default function ProcrastinationPage() {
 
       <header className="police-header">
         <a href="/dashboard" className="police-logo">
-          <div className="logo-box">CS</div>
+          <div className="logo-box">SO</div>
 
           <div>
-            <strong>COLLEGE SURVIVAL OS™</strong>
+            <strong>SURVIVAL OS™</strong>
             <span>PROCRASTINATION ENFORCEMENT UNIT</span>
           </div>
         </a>
@@ -264,7 +264,7 @@ export default function ProcrastinationPage() {
         </section>
 
         <footer className="police-footer">
-          <span>COLLEGE SURVIVAL OS™</span>
+          <span>SURVIVAL OS™</span>
 
           <a href="/dashboard">← DASHBOARD</a>
 

@@ -6,43 +6,43 @@ const modules = [
   {
     icon: "🎓",
     title: "College Survival",
-    description: "Attendance, assignments & exams",
+    description: "Attendance, assignments, exam — ellam oru scene.",
     href: "/college",
   },
   {
     icon: "🚨",
     title: "Procrastination Police",
-    description: "Productivity crime detection",
+    description: "Productivity avoid cheyyunnundo? Nammal nokkum.",
     href: "/procrastination",
   },
   {
     icon: "💸",
     title: "Money Roast",
-    description: "Find where your money vanished",
+    description: "Cash evide poyi enn kandupidikku.",
     href: "/money",
   },
   {
     icon: "🤖",
     title: "AI Survival Advisor",
-    description: "Questionable advice, powered by AI",
+    description: "AI advice aanu. Vishwaasikkano? Ninte ishtam.",
     href: "/ai",
   },
   {
     icon: "💀",
     title: "Relationship Translator",
-    description: "Decode suspicious messages",
+    description: '"K" message decode cheyyu, risk ariyu.',
     href: "/translator",
   },
   {
     icon: "⚖️",
     title: "Roommate Court",
-    description: "Justice for extremely serious problems",
+    description: "Roommate-ine ethire full serious justice.",
     href: "/court",
   },
   {
   icon: "🧠",
   title: "Decision Engine",
-  description: "Let the OS make your questionable decisions",
+  description: "Ninte questionable decision OS-ine vittu kodukku.",
   href: "/decisions",
 },
 ];
@@ -58,17 +58,17 @@ export default function Dashboard() {
       {/* TOP BAR */}
       <header className="dashboard-header">
         <a href="/" className="dashboard-logo">
-          <div className="dashboard-logo-mark">CS</div>
+          <div className="dashboard-logo-mark">SO</div>
 
           <div>
-            <strong>COLLEGE SURVIVAL OS™</strong>
-            <span>STUDENT CONTROL CENTER</span>
+            <strong>SURVIVAL OS™</strong>
+            <span>STUDENT CONTROL ROOM</span>
           </div>
         </a>
 
         <div className="system-status">
           <span />
-          SYSTEM ONLINE
+          SYSTEM OK MACHANE
         </div>
       </header>
 
@@ -79,13 +79,13 @@ export default function Dashboard() {
         <div className="dashboard-intro">
           <div>
             <p className="dashboard-eyebrow">
-              SURVIVAL PROTOCOL // DASHBOARD
+              SURVIVAL MODE // DASHBOARD
             </p>
 
             <h1>
               GOOD MORNING,
               <br />
-              <span>SURVIVOR.</span>
+              <span>MACHANE.</span>
             </h1>
 
             <p className="dashboard-description">
@@ -108,8 +108,8 @@ export default function Dashboard() {
 
             <p>
               {energy >= 70
-                ? "BARELY FUNCTIONAL"
-                : "EMERGENCY MODE"}
+                ? "ORUVIDHAM OK"
+                : "FULL EMERGENCY"}
             </p>
           </div>
         </div>
@@ -119,22 +119,22 @@ export default function Dashboard() {
           <div className="alert-icon">⚠</div>
 
           <div>
-            <strong>CRITICAL WARNING</strong>
+            <strong>SERIOUS WARNING</strong>
             <p>
-              You have successfully avoided your responsibilities
-              for an impressive amount of time.
+              Responsibilities nalla style-il avoid cheythu.
+              Ithrem consistency-kk oru award venam.
             </p>
           </div>
 
           <span className="alert-code">
-            STATUS: CONCERNING
+            STATUS: KURACH SCENE UNDU
           </span>
         </div>
 
         {/* STATS */}
         <div className="dashboard-section-title">
           <span>01</span>
-          <h2>LIVE STATUS</h2>
+          <h2>LIVE SCENE</h2>
           <small>REALITY CHECK</small>
         </div>
 
@@ -153,7 +153,7 @@ export default function Dashboard() {
             <span>📚</span>
             <small>ASSIGNMENTS</small>
             <strong>3</strong>
-            <p>OVERDUE</p>
+            <p>LATE AAYI</p>
           </div>
 
           <div className="dashboard-stat">
@@ -178,16 +178,16 @@ export default function Dashboard() {
         <div className="energy-panel">
           <div>
             <span className="panel-label">
-              ⚡ PERSONAL ENERGY SIMULATOR
+              ⚡ PERSONAL ENERGY METER
             </span>
 
             <h2>
-              How alive do you feel today?
+              Innu ethra alive feel cheyyunnu?
             </h2>
 
             <p>
-              Adjust your current energy level.
-              The system will judge you accordingly.
+              Ninte current energy set cheyyu.
+              Baaki system judge cheyyum, sorry.
             </p>
           </div>
 
@@ -210,7 +210,7 @@ export default function Dashboard() {
         <div className="dashboard-section-title">
           <span>02</span>
           <h2>SURVIVAL MODULES</h2>
-          <small>CHOOSE YOUR WEAPON</small>
+          <small>TOOL SELECT CHEYYU</small>
         </div>
 
         <div className="dashboard-modules">
@@ -237,15 +237,15 @@ export default function Dashboard() {
         {/* FOOTER */}
         <footer className="dashboard-footer">
           <span>
-            COLLEGE SURVIVAL OS™
+            SURVIVAL OS™
           </span>
 
           <span>
-            SYSTEM HEALTH: QUESTIONABLE
+            SYSTEM HEALTH: KURE SCENE UNDU
           </span>
 
           <a href="/">
-            ← RETURN TO MAIN SYSTEM
+            ← MAIN PAGE-ILEKKU POKAM
           </a>
         </footer>
 

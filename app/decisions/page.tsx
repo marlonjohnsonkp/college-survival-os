@@ -126,7 +126,7 @@ if (found) {
                 fontWeight: "800",
               }}
             >
-              COLLEGE SURVIVAL OS™ / DECISION DEPARTMENT
+              SURVIVAL OS™ / DECISION DEPARTMENT
             </div>
 
             <h1

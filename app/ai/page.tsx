@@ -95,10 +95,10 @@ export default function AIPage() {
 
       <header className="ai-header">
         <a href="/dashboard" className="ai-logo">
-          <div className="logo-box">CS</div>
+          <div className="logo-box">SO</div>
 
           <div>
-            <strong>COLLEGE SURVIVAL OS™</strong>
+            <strong>SURVIVAL OS™</strong>
             <span>ARTIFICIAL SURVIVAL INTELLIGENCE</span>
           </div>
         </a>
@@ -267,7 +267,7 @@ export default function AIPage() {
         </section>
 
         <footer className="ai-footer">
-          <span>COLLEGE SURVIVAL OS™</span>
+          <span>SURVIVAL OS™</span>
 
           <a href="/dashboard">← DASHBOARD</a>
 

@@ -3,7 +3,7 @@ const features = [
     icon: "🎓",
     title: "College Survival",
     description:
-      "Attendance, assignments, exams and academic panic in one command center.",
+      "Attendance, assignments, exams — ellam oru command center-il. Panic complimentary.",
     status: "ONLINE",
     color: "lime",
     href: "#",
@@ -12,7 +12,7 @@ const features = [
     icon: "🚨",
     title: "Procrastination Police",
     description:
-      "Detects suspicious levels of productivity avoidance.",
+      "Productivity avoid cheyyunna scene kandupidikkum, macha.",
     status: "WATCHING",
     color: "red",
     href: "#",
@@ -21,7 +21,7 @@ const features = [
     icon: "💸",
     title: "Money Roast",
     description:
-      "Find out exactly how your money disappeared. Prepare emotionally.",
+      "Cash evide poyi enn kandupidikkum. Heart strong aayirikkanam.",
     status: "DANGEROUS",
     color: "yellow",
     href: "#",
@@ -30,7 +30,7 @@ const features = [
     icon: "🤖",
     title: "AI Survival Advisor",
     description:
-      "Combines your chaos and produces unnecessarily confident advice.",
+      "Ninte chaos mix cheythu, AI full confidence-ode advice tharum.",
     status: "THINKING",
     color: "purple",
     href: "#",
@@ -39,7 +39,7 @@ const features = [
     icon: "⚖️",
     title: "Roommate Court",
     description:
-      "Settle absolutely serious disputes with absolutely unnecessary technology.",
+      "Roommate case serious aano? Technology full drama-ode settle cheyyum.",
     status: "IN SESSION",
     color: "blue",
     href: "#",
@@ -48,7 +48,7 @@ const features = [
     icon: "💀",
     title: "Relationship Translator",
     description:
-      'Translates "K", "fine", and "do whatever you want" into danger levels.',
+      '"K", "fine", "cheytho" ennokke danger level-il translate cheyyum.',
     status: "HIGH RISK",
     color: "pink",
     href: "/translator",
@@ -70,22 +70,22 @@ export default function Home() {
 
       <nav className="navbar">
         <div className="brand">
-          <div className="brand-mark">CS</div>
+          <div className="brand-mark">SO</div>
 
           <div>
             <div className="brand-name">
-              COLLEGE SURVIVAL OS<span>™</span>
+              SURVIVAL OS<span>™</span>
             </div>
 
             <div className="brand-subtitle">
-              STUDENT OPERATING SYSTEM
+              STUDENT SURVIVAL MODE
             </div>
           </div>
         </div>
 
         <div className="nav-status">
           <span className="status-dot" />
-          SYSTEM ONLINE
+          SYSTEM OK MACHANE
         </div>
       </nav>
 
@@ -95,37 +95,36 @@ export default function Home() {
         <div className="hero-content">
           <div className="eyebrow">
             <span className="pulse-dot" />
-            VERSION 1.0 // SURVIVAL PROTOCOL ACTIVE
+            VERSION 1.0 // SURVIVAL MODE ON
           </div>
 
           <h1>
-            COLLEGE IS
+            COLLEGE LIFE IS
             <br />
-            <span className="outline-text">A SURVIVAL GAME.</span>
+            <span className="outline-text">FULL ON SURVIVAL GAME.</span>
           </h1>
 
           <p className="hero-description">
-            So we built an unnecessarily advanced operating system to help
-            you survive it.
+            College life-ile chaos handle cheyyan, njangal oru over-smart OS undakki.
           </p>
 
           <div className="hero-actions">
             <a href="/dashboard" className="primary-button">
-  ENTER SURVIVAL MODE
+  START CHEYYAM MACHANE
   <span>↗</span>
 </a>
 
             <a href="#features" className="secondary-button">
-              EXPLORE SYSTEM
+              ONNU NOKKAM
             </a>
           </div>
 
           <div className="hero-meta">
-            <span>NO USER MANUAL</span>
+            <span>MANUAL ONNUM ILLA</span>
             <span>•</span>
-            <span>NO REFUNDS</span>
+            <span>REFUND CHODIKKALLE</span>
             <span>•</span>
-            <span>ABSOLUTELY UNNECESSARY</span>
+            <span>KURE UNNECESSARY AANU</span>
           </div>
         </div>
 
@@ -145,28 +144,28 @@ export default function Home() {
           <div className="terminal-body">
             <div className="terminal-line">
               <span className="terminal-prompt">&gt;</span>
-              INITIALIZING STUDENT...
+              STUDENT START AAKUNNU...
             </div>
 
             <div className="terminal-line muted">
-              Loading academic damage...
+              Academic damage load aakunnu...
             </div>
 
             <div className="terminal-line muted">
-              Scanning financial decisions...
+              Cash evide poyi enn scan cheyyunnu...
             </div>
 
             <div className="terminal-line muted">
-              Detecting procrastination...
+              Procrastination kandupidikkunnu...
             </div>
 
             <div className="terminal-line success">
-              ✓ HUMAN SURVIVAL SYSTEM READY
+              ✓ MACHAN SURVIVAL SYSTEM READY
             </div>
 
             <div className="terminal-score">
               <div>
-                <span className="score-label">CURRENT SURVIVAL</span>
+                <span className="score-label">INNATHE SURVIVAL</span>
 
                 <strong>67</strong>
 
@@ -180,7 +179,7 @@ export default function Home() {
 
             <div className="terminal-warning">
               <span>⚠</span>
-              STATUS: BARELY FUNCTIONAL
+              STATUS: ORUVIDHAM OK
             </div>
           </div>
         </div>
@@ -191,12 +190,12 @@ export default function Home() {
           <div>
             <span className="section-number">01</span>
             <span className="section-label">
-              LIVE STUDENT STATUS
+              LIVE STUDENT SCENE
             </span>
           </div>
 
           <span className="section-caption">
-            REALITY CHECK // LIVE
+            REALITY CHECK // LIVE AAYI
           </span>
         </div>
 
@@ -231,12 +230,12 @@ export default function Home() {
             <span className="section-number">02</span>
 
             <span className="section-label">
-              SURVIVAL MODULES
+              SURVIVAL TOOLS
             </span>
           </div>
 
           <span className="section-caption">
-            06 SYSTEMS // 01 QUESTIONABLE DECISION
+            06 TOOLS // 01 SAMBHAVAM
           </span>
         </div>
 
@@ -289,49 +288,49 @@ export default function Home() {
 
       <section className="manifesto">
         <div className="manifesto-tag">
-          THE PROBLEM THAT DOESN&apos;T EXIST
+          AARUM CHODIKKATHA PROBLEM
         </div>
 
         <h2>
-          COLLEGE DIDN&apos;T ASK FOR
+          COLLEGE ITHU CHODICHILLA,
           <br />
-          <span>AN OPERATING SYSTEM.</span>
+          <span>ENNAL NAMMAL UNDAKKI.</span>
         </h2>
 
-        <p>We built one anyway.</p>
+        <p>Ennalum nammal build cheythu. Why? Vibes.</p>
 
         <div className="manifesto-grid">
           <div>
             <strong>01</strong>
-            <span>TRACK THE CHAOS</span>
+            <span>CHAOS TRACK CHEYYU</span>
           </div>
 
           <div>
             <strong>02</strong>
-            <span>ANALYZE THE CHAOS</span>
+            <span>CHAOS ANALYZE CHEYYU</span>
           </div>
 
           <div>
             <strong>03</strong>
-            <span>ROAST THE CHAOS</span>
+            <span>CHAOS ROAST CHEYYU</span>
           </div>
 
           <div>
             <strong>04</strong>
-            <span>SURVIVE THE CHAOS</span>
+            <span>CHAOS-IL JEEVICHU POKU</span>
           </div>
         </div>
       </section>
 
       <footer className="footer">
         <div>
-          <strong>COLLEGE SURVIVAL OS™</strong>
-          <span>Built unnecessarily. Used reluctantly.</span>
+          <strong>SURVIVAL OS™</strong>
+          <span>Kaaranam illathe build cheythu. Ithippo use cheyyunnu.</span>
         </div>
 
         <div className="footer-right">
           <span>MADE WITH ❤️</span>
-          <span>AT TINKERHUB USELESS PROJECTS</span>
+          <span>TINKERHUB-ILE USELESS PROJECTS-IL</span>
         </div>
       </footer>
     </main>
